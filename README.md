@@ -1,6 +1,6 @@
 # Qwen VL Webcam Assistant
 
-A set of Colab notebooks for experimenting with **Qwen2.5-VL-3B-Instruct**, an open-source vision-language model, across three use cases: single-image Q&A, full video understanding, and a live webcam assistant with voice input and spoken answers.
+A set of Colab notebook for experimenting with **Qwen2.5-VL-3B-Instruct**, an open-source vision-language model, across three use cases: single-image Q&A, full video understanding, and a live webcam assistant with voice input and spoken answers.
 
 ## Features
 
